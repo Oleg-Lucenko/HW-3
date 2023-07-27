@@ -1,0 +1,7 @@
+
+.box {
+    display: inline-block;
+    width: 400px;
+    height: 50px;
+    border: 2px solid rgb(91, 90, 90);
+  }

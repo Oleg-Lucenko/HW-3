@@ -1,0 +1,19 @@
+.comment-container {
+    border: solid rgb(0, 19, 146);
+    border-width: 2px 4px 2px 4px;
+}
+
+.name-number-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: rgb(102, 97, 246);
+}
+
+.name-number-container.active {
+    background-color: rgb(21, 17, 116);
+}
+
+.comment-content {
+    padding: 0 0 0 26px;
+}
